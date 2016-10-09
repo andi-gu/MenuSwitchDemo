@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 21,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 166
+                    }
+                }
+            }
+        ]
+    }
+]

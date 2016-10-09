@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_quick_dialer.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_quick_dialer.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_discard.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_show_blockrecord.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_show_blockrecord.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_remove.png",
+        "source": "C:\\Users\\grain\\Desktop\\zhihu\\MenuSwitchDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_remove.png"
+    }
+]
